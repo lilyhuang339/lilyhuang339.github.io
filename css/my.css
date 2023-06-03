@@ -1,0 +1,9 @@
+.myline{
+    display:flex;
+    flex-direction: column;
+}
+.mylinediv{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
